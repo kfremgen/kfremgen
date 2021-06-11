@@ -6,11 +6,10 @@ I take great care in the experience, architecture, and code quality of all my pr
 
 #### Languages and Technologies:
 
-- HTML5
+- JavaScript
 - CSS3
 - SCSS
-- JavaScript
-- React
+- HTML5
 - Python
 - webpack
 - Git
