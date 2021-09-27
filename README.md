@@ -10,6 +10,7 @@ I take great care in the experience, architecture, and code quality of all my pr
 - CSS3
 - SCSS
 - HTML5
+- Node
 - Python
 - webpack
 - Git
