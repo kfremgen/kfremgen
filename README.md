@@ -8,6 +8,7 @@ I take great care in the experience, architecture, and code quality of all my pr
 
 - Swift
 - UIKit
+- SwiftUI
 - Core Data
 - Realm 
 - CocoaPods
