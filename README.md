@@ -27,7 +27,9 @@
     <img src="https://streak-stats.demolab.com?user=kfremgen97&theme=radical" />
 </picture>
 
+<!--
 <picture>
   <img src="https://github-readme-stats.vercel.app/api?username=kfremgen97&count_private=true&show_icons=true&theme=radical" />
 </picture>
+-->
 
