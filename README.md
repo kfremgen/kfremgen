@@ -20,7 +20,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="25" height="25"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQl" alt="GraphQl" width="25" height="25"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="25" height="25"/>&nbsp;
-  <img src=" https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-plain.svg" title="Xcode" alt="Xcode" width="25" height="25"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-plain.svg" title="Xcode" alt="Xcode" width="25" height="25"/>&nbsp;
 </div>
 
 
