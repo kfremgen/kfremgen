@@ -1,5 +1,5 @@
 <div id="badges" align="right">
-  <a href="www.linkedin.com/in/kafremgen">
+  <a href="https://www.linkedin.com/in/kfremgen/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </div>
@@ -22,5 +22,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="25" height="25"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-plain.svg" title="Xcode" alt="Xcode" width="25" height="25"/>&nbsp;
 </div>
-
-
